@@ -1,0 +1,18 @@
+.pilota{
+    display: flex;
+    align-items: center;
+    width:50%
+}
+img{
+    height: 250px;
+}
+.studente{
+    font-size: 3rem;
+}
+#studenti_nomi{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    padding:50px
+}
